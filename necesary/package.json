@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  },
+  "scripts": {
+    "build": "purgecss --css custom.css --content  index.html -o compress.css"
+  }
+}
